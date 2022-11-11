@@ -58,7 +58,7 @@ function SignInForm() {
           Sign In
         </button>
       </div>
-      <div className="w-1/2 max-md:w-11/12">
+      <div className="w-1/2 max-md:w-11/12 mt-4">
         <div className="w-full inline-flex justify-center items-center">
           <hr className="w-full h-1" />
           <p className="w-full text-sm mx-2">Or Sign In With</p>
