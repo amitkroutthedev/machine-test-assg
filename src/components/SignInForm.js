@@ -64,7 +64,7 @@ function SignInForm() {
           <p className="w-full text-sm mx-2">Or Sign In With</p>
           <hr className="w-full h-1 " />
         </div>
-        <div className="inline-flex flex-row w-full h-10 justify-evenly">
+        <div className="inline-flex flex-row w-full h-10 justify-evenly mt-4">
           <div className="p-2 rounded-full border-2 border-slate-900 inline-flex justify-center items-center">
             <FaGoogle size={15} />
           </div>
